@@ -1,0 +1,13 @@
+# Altium 
+History/
+PCB/3D_Models/
+
+# digikey generator
+output.txt
+__pycache__
+digikey_cache
+digikey_password.py
+
+
+# Excel
+~$daniw_altium_lib.xlsx
