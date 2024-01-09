@@ -18,9 +18,10 @@ os.environ['DIGIKEY_STORAGE_PATH'] = str(CACHE_DIR)
 API_LIMIT = {}
 
 ################## ORDER CONFIG ######################################
-BASE_ORDER_CODE = 'RC0603FR-.{2}'
+PACKAGE = "0805"
+BASE_ORDER_CODE = F'RC{PACKAGE}FR-.'+'{2}'
 
-PACKAGE = "0603"
+
 #E 24
 E_LIST = [10, 11, 12, 13, 15, 16, 18 ,20, 22, 24, 27, 30, 33, 36, 39, 43, 47, 51, 56, 62, 68, 75, 82, 91]
 GAINS = [1,10,100]
@@ -77,7 +78,7 @@ if __name__ == '__main__':
                     
                     if(len(orderable_parts) > 0):
                         f.write(F"{unitvalue}/{PACKAGE}	{unitvalue}/{PACKAGE}	RES SM {PACKAGE} {unitvalue} " + 
-                        F"	GENERIC	{PACKAGE}	{unitvalue}	SCH/R_IEC.SchLib	R	PCB/SMT_CHIP.PcbLib	R{PACKAGE}-0.40-WW	{value*UNIT_GAIN[unit]*1e-1:.2}	" + 
+                        F"	GENERIC	{PACKAGE}	{unitvalue}	SCH/R_IEC.SchLib	R	PCB/SMT_CHIP.PcbLib	R{PACKAGE}-0.50-WW	{value*UNIT_GAIN[unit]*1e-1:.2}	" + 
                         F"{orderable_parts[0][4]}")
                         i=0
                         for t in orderable_parts: 
