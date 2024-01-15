@@ -4,10 +4,10 @@ PCB/3D_Models/
 *_loc
 
 # digikey generator
-output.txt
-__pycache__
-digikey_cache
-digikey_password.py
+Scripts/output.txt
+Scripts/__pycache__
+Scripts/digikey_cache
+Scripts/digikey_password.py
 
 
 # Excel
