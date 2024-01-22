@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Daten\Temp\dan
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,22 +19,22 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Integrated$
+LastFocusedTable=R$
 [Table1]
 SchemaName=
 TableName=C$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=141|Description0=203|Library Path0=115|Library Ref0=90|Footprint Path0=147|Footprint Ref0=105|Comment0=141|Manufacturer0=108|Package0=75|Value0=59|Absolute Value0=117|HelpURL0=726|Manufacturer 10=159|Manufacturer Part Number 10=203|Supplier 10=86|Supplier Part Number 10=227|Manufacturer 20=181|Manufacturer Part Number 20=203|Supplier 20=86|Supplier Part Number 20=221|F210=48
 [Table2]
 SchemaName=
 TableName=CON$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=104|Description0=104|Library Path0=147|Library Ref0=90|Footprint Path0=157|Footprint Ref0=106|Comment0=86|Manufacturer0=108|Package0=75|Value0=59|Absolute Value0=117|HelpURL0=78|Manufacturer 10=120|Manufacturer Part Number 10=203|Supplier 10=86|Supplier Part Number 10=169|Manufacturer 20=120|Manufacturer Part Number 20=203|Supplier 20=86|Supplier Part Number 20=169|Manufacturer 30=120|Manufacturer Part Number 30=203|Supplier 30=86|Supplier Part Number 30=169
 [Table3]
 SchemaName=
 TableName=Config$
@@ -47,6 +47,9 @@ TableName=D$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=127|Description0=421|Library Path0=119|Library Ref0=93|Footprint Path0=121|Footprint Ref0=125|Comment0=127|Manufacturer0=108|Package0=115|Value0=106|Absolute Value0=117|HelpURL0=1034|Manufacturer 10=304|Manufacturer Part Number 10=203|Supplier 10=86|Supplier Part Number 10=276|Manufacturer 20=164|Manufacturer Part Number 20=203|Supplier 20=86|Supplier Part Number 20=191|Manufacturer 30=223|Manufacturer Part Number 30=203|Supplier 30=86|Supplier Part Number 30=169
 [Table5]
 SchemaName=
 TableName=Integrated$
@@ -55,32 +58,53 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=107|Comment0=107|Description0=495|Manufacturer0=108|Package0=75|Library Path0=147|Library Ref0=99|Footprint Path0=129|Footprint Ref0=215|HelpURL0=570|Manufacturer 10=120|Manufacturer Part Number 10=203|Supplier 10=86|Supplier Part Number 10=169|Manufacturer 20=120|Manufacturer Part Number 20=203|Supplier 20=86|Supplier Part Number 20=169
+BrowserOrder_Visible=Part Number0=107|Description0=524|Library Path0=147|Library Ref0=123|Footprint Path0=114|Footprint Ref0=215|Comment0=107|Manufacturer0=204|Package0=75|HelpURL0=737|Manufacturer 10=277|Manufacturer Part Number 10=203|Supplier 10=86|Supplier Part Number 10=176|Manufacturer 20=120|Manufacturer Part Number 20=203|Supplier 20=86|Supplier Part Number 20=169|Manufacturer 30=317|Manufacturer Part Number 30=203|Supplier 30=86|Supplier Part Number 30=169
 [Table6]
 SchemaName=
 TableName=L$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=104|Description0=238|Library Path0=126|Library Ref0=90|Footprint Path0=147|Footprint Ref0=105|Comment0=91|Manufacturer0=108|Package0=84|Value0=59|Absolute Value0=117|HelpURL0=666|Manufacturer 10=177|Manufacturer Part Number 10=203|Supplier 10=86|Supplier Part Number 10=240|Manufacturer 20=120|Manufacturer Part Number 20=203|Supplier 20=86|Supplier Part Number 20=169|Manufacturer 30=120|Manufacturer Part Number 30=203|Supplier 30=86|Supplier Part Number 30=169
 [Table7]
 SchemaName=
 TableName=Logic$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=104|Description0=200|Library Path0=141|Library Ref0=114|Footprint Path0=114|Footprint Ref0=146|Comment0=93|Manufacturer0=108|Package0=79|Value0=59|Absolute Value0=117|HelpURL0=78|Manufacturer 10=120|Manufacturer Part Number 10=203|Supplier 10=86|Supplier Part Number 10=169|Manufacturer 20=120|Manufacturer Part Number 20=203|Supplier 20=86|Supplier Part Number 20=169|Manufacturer 30=120|Manufacturer Part Number 30=203|Supplier 30=86|Supplier Part Number 30=169
 [Table8]
+SchemaName=
+TableName=Misc$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=218|Description0=344|Library Path0=147|Library Ref0=107|Footprint Path0=166|Footprint Ref0=218|Comment0=210|Manufacturer0=108|Package0=75|HelpURL0=78|Manufacturer 10=120|Manufacturer Part Number 10=203|Supplier 10=86|Supplier Part Number 10=169|Manufacturer 20=120|Manufacturer Part Number 20=203|Supplier 20=86|Supplier Part Number 20=169
+[Table9]
 SchemaName=
 TableName=Module$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table9]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=104|Description0=288|Library Path0=137|Library Ref0=90|Footprint Path0=137|Footprint Ref0=105|Comment0=86|Manufacturer0=108|Package0=75|Value0=59|Absolute Value0=117|HelpURL0=282|Manufacturer 10=120|Manufacturer Part Number 10=203|Supplier 10=86|Supplier Part Number 10=169|Manufacturer 20=120|Manufacturer Part Number 20=203|Supplier 20=86|Supplier Part Number 20=169|Manufacturer 30=120|Manufacturer Part Number 30=203|Supplier 30=86|Supplier Part Number 30=169
+[Table10]
 SchemaName=
 TableName=R$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table10]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=147|Description0=150|Library Path0=117|Library Ref0=90|Footprint Path0=147|Footprint Ref0=135|Comment0=147|Manufacturer0=108|Package0=75|Value0=59|Absolute Value0=117|HelpURL0=704|Manufacturer 10=120|Manufacturer Part Number 10=203|Supplier 10=86|Supplier Part Number 10=199|Manufacturer 20=120|Manufacturer Part Number 20=203|Supplier 20=86|Supplier Part Number 20=199|Manufacturer 30=120|Manufacturer Part Number 30=203|Supplier 30=86|Supplier Part Number 30=169
+[Table11]
 SchemaName=
 TableName=Start$
 Enabled=False
@@ -159,26 +183,38 @@ Options=FieldName=Logic$.Footprint Path|TableNameOnly=Logic$|FieldNameOnly=Footp
 [FieldMap36]
 Options=FieldName=Logic$.Footprint Ref|TableNameOnly=Logic$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap37]
-Options=FieldName=Module$.Part Number|TableNameOnly=Module$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Misc$.Part Number|TableNameOnly=Misc$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap38]
-Options=FieldName=Module$.Description|TableNameOnly=Module$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Misc$.Description|TableNameOnly=Misc$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap39]
-Options=FieldName=Module$.Library Path|TableNameOnly=Module$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Misc$.Library Path|TableNameOnly=Misc$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap40]
-Options=FieldName=Module$.Library Ref|TableNameOnly=Module$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Misc$.Library Ref|TableNameOnly=Misc$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap41]
-Options=FieldName=Module$.Footprint Path|TableNameOnly=Module$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Misc$.Footprint Path|TableNameOnly=Misc$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap42]
-Options=FieldName=Module$.Footprint Ref|TableNameOnly=Module$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Misc$.Footprint Ref|TableNameOnly=Misc$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap43]
-Options=FieldName=R$.Part Number|TableNameOnly=R$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Module$.Part Number|TableNameOnly=Module$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap44]
-Options=FieldName=R$.Description|TableNameOnly=R$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Module$.Description|TableNameOnly=Module$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap45]
-Options=FieldName=R$.Library Path|TableNameOnly=R$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Module$.Library Path|TableNameOnly=Module$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap46]
-Options=FieldName=R$.Library Ref|TableNameOnly=R$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Module$.Library Ref|TableNameOnly=Module$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap47]
-Options=FieldName=R$.Footprint Path|TableNameOnly=R$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Module$.Footprint Path|TableNameOnly=Module$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap48]
+Options=FieldName=Module$.Footprint Ref|TableNameOnly=Module$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=R$.Part Number|TableNameOnly=R$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=R$.Description|TableNameOnly=R$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=R$.Library Path|TableNameOnly=R$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=R$.Library Ref|TableNameOnly=R$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=R$.Footprint Path|TableNameOnly=R$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
 Options=FieldName=R$.Footprint Ref|TableNameOnly=R$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
