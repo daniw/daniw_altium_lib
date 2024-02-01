@@ -100,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=SCH\C_EU.SchLib
+DocumentPath=SCH\C_IEC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -253,7 +253,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LJZJXWZP
 
 [Document13]
-DocumentPath=SCH\C_US.SchLib
+DocumentPath=SCH\C_ANSI.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -437,7 +437,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MSVBCTXC
 
 [Document24]
 DocumentPath=PCB\Bat.PcbLib
