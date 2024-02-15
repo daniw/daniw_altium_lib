@@ -1,11 +1,11 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Daten\Daniel\ele\daniw_altium_lib\daniw_altium_lib.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Daten\Temp\daniw_altium_lib\daniw_altium_lib.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,16 +19,13 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=C$
+LastFocusedTable=Integrated$
 [Table1]
 SchemaName=
 TableName=C$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=108|Description0=157|Library Path0=95|Library Ref0=77|Footprint Path0=118|Footprint Ref0=92|Comment0=108|Manufacturer0=93|Package0=65|Value0=52|Absolute Value0=101|HelpURL0=609|Manufacturer 10=134|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=182|Manufacturer 20=151|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=179|Manufacturer 30=102|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142|JLC Type0=66
 [Table2]
 SchemaName=
 TableName=CON$
@@ -53,6 +50,9 @@ TableName=Integrated$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Description0=415|Library Path0=123|Library Ref0=100|Footprint Path0=98|Footprint Ref0=187|Comment0=83|Manufacturer0=170|Package0=65|HelpURL0=602|Manufacturer 10=221|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=270|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142|JLC Type0=66
 [Table6]
 SchemaName=
 TableName=L$
