@@ -542,6 +542,23 @@ GenerateClassCluster=0
 DocumentUniqueId=ISYTJLUJ
 
 [Document30]
+DocumentPath=PCB\SDCard.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VUQOBGSK
+
+[Document31]
 DocumentPath=PCB\ESP8622.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -558,7 +575,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document32]
 DocumentPath=PCB\Mech.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -575,7 +592,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IMTAGMOC
 
-[Document32]
+[Document33]
 DocumentPath=PCB\SolderJumper.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -592,7 +609,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document34]
 DocumentPath=PCB\TAG_CONNECT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -609,7 +626,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUXALQRK
 
-[Document34]
+[Document35]
 DocumentPath=PCB\Testpoint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -626,7 +643,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QMQCROBJ
 
-[Document35]
+[Document36]
 DocumentPath=SCH\Toradex.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -643,7 +660,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VIZFCYCD
 
-[Document36]
+[Document37]
 DocumentPath=PCB\Harting.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -660,7 +677,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VUQOBGSK
 
-[Document37]
+[Document38]
 DocumentPath=PCB\Molex.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1

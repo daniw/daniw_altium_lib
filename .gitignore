@@ -3,6 +3,14 @@ History/
 PCB/3D_Models/
 *_loc
 
+
+# Proprietary Libraries
+PCB/Molex.PcbLib
+PCB/SDCard.PcbLib
+PCB/Toradex.PcbLib
+PCB/Harting.PcbLib
+
+
 # digikey generator
 Scripts/output.txt
 Scripts/__pycache__
