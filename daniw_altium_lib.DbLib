@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Integrated$
+LastFocusedTable=Misc$
 [Table1]
 SchemaName=
 TableName=C$
@@ -50,9 +50,6 @@ TableName=Integrated$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Description0=415|Library Path0=123|Library Ref0=100|Footprint Path0=98|Footprint Ref0=187|Comment0=83|Manufacturer0=170|Package0=65|HelpURL0=602|Manufacturer 10=221|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=270|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142|JLC Type0=66
 [Table6]
 SchemaName=
 TableName=L$
@@ -71,6 +68,9 @@ TableName=Misc$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=218|Description0=522|Library Path0=147|Library Ref0=107|Footprint Path0=178|Footprint Ref0=218|Comment0=210|Manufacturer0=108|Package0=75|HelpURL0=1145|Manufacturer 10=120|Manufacturer Part Number 10=203|Supplier 10=86|Supplier Part Number 10=169|Manufacturer 20=120|Manufacturer Part Number 20=203|Supplier 20=86|Supplier Part Number 20=169|Manufacturer 30=120|Manufacturer Part Number 30=203|Supplier 30=86|Supplier Part Number 30=169|JLC Type0=79
 [Table9]
 SchemaName=
 TableName=Module$
