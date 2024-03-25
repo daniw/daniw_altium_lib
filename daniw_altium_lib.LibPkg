@@ -216,7 +216,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RDMKFGDL
+DocumentUniqueId=XICMCWBX
 
 [Document11]
 DocumentPath=PCB\_TEMPLATE.PcbLib
@@ -267,7 +267,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LJZJXWZP
+DocumentUniqueId=XGUCFENO
 
 [Document14]
 DocumentPath=SCH\C_ANSI.SchLib
@@ -403,7 +403,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HOLCMXMH
 
 [Document22]
 DocumentPath=SCH\Connector.SchLib
@@ -437,7 +437,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LGVDJSPL
 
 [Document24]
 DocumentPath=SCH\L_ANSI.SchLib
@@ -471,7 +471,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FZZZBWRK
+DocumentUniqueId=BMGVYMYH
 
 [Document26]
 DocumentPath=PCB\QFN.PcbLib
@@ -693,6 +693,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YGVOIXMJ
+
+[Document39]
+DocumentPath=PCB\DIOB.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [OutputGroup1]
 Name=Netlist Outputs
