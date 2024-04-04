@@ -18,7 +18,7 @@ os.environ['DIGIKEY_STORAGE_PATH'] = str(CACHE_DIR)
 API_LIMIT = {}
 
 ################## ORDER CONFIG ######################################
-PACKAGE = "0805"
+PACKAGE = "0402"
 BASE_ORDER_CODE = F'RC{PACKAGE}FR-.'+'{2}'
 
 
@@ -67,7 +67,7 @@ def get_code(Prefix, value, unit):
 
 
 if __name__ == '__main__':
-    with open('output.txt', 'w') as f:
+    with open('output_resistors.txt', 'w') as f:
         for unit in UNITS:
             for gain in GAINS:
                 for e_value in E_LIST:

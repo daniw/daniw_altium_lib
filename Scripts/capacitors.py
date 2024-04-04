@@ -18,14 +18,14 @@ os.environ['DIGIKEY_STORAGE_PATH'] = str(CACHE_DIR)
 API_LIMIT = {}
 
 ################## ORDER CONFIG ######################################
-BASE_ORDER_CODE = 'CC0603 NPO9BN'
+BASE_ORDER_CODE = 'CC0402 NPO9BN'
 DIELECTRIC = 'C0G'
 
-#BASE_ORDER_CODE = 'CC0603 X7R9BB'
-#DIELECTRIC = 'X7R'
+BASE_ORDER_CODE = 'CC0402 X7R9BB'
+DIELECTRIC = 'X7R'
 
 VOLTAGE_RATING = 50
-PACKAGE = "0603"
+PACKAGE = "0402"
 #E 12
 E_LIST = [10,12,15, 18 ,22, 27, 33, 39, 47, 56, 68,82]
 GAINS = [1,10,100]
@@ -45,7 +45,7 @@ def get_order_code(productNumber):
     # Place request on digikey webservice
     result = digikey.keyword_search(body=search_request, api_limits=API_LIMIT)
     # select results if packaging is CUT-Tape (CT) and minimum order quantity is 1
-    print(result)
+    #print(result)
     orderable_parts = [(t.standard_pricing[-1].unit_price, t.manufacturer.value, t.manufacturer_part_number, t.digi_key_part_number,  t.primary_datasheet) 
         for t in result.products if t.packaging.value_id == '2' and t.minimum_order_quantity == 1]
     # Sord by price
@@ -67,7 +67,7 @@ def get_code(Prefix, value):
         return F"{Prefix}{floor(value/pow(10,base10))}{base10-1}"
 
 if __name__ == '__main__':
-    with open('output.txt', 'w') as f:
+    with open('output_capacitors.txt', 'w') as f:
         for unit in UNITS:
             for gain in GAINS:
                 for e_value in E_LIST:
