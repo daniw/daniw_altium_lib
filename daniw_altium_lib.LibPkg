@@ -457,6 +457,23 @@ GenerateClassCluster=0
 DocumentUniqueId=DSNBSNLU
 
 [Document25]
+DocumentPath=PCB\SON.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JLNTAYXQ
+
+[Document26]
 DocumentPath=PCB\C_THT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -473,7 +490,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BMGVYMYH
 
-[Document26]
+[Document27]
 DocumentPath=PCB\QFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -490,7 +507,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ORRDUKBA
 
-[Document27]
+[Document28]
 DocumentPath=PCB\IND_SMT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -505,9 +522,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IETALOIF
+DocumentUniqueId=KEYHICHT
 
-[Document28]
+[Document29]
 DocumentPath=PCB\Toradex.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -524,7 +541,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VUQOBGSK
 
-[Document29]
+[Document30]
 DocumentPath=PCB\Bat.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -541,7 +558,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ISYTJLUJ
 
-[Document30]
+[Document31]
 DocumentPath=PCB\SDCard.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -558,7 +575,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VUQOBGSK
 
-[Document31]
+[Document32]
 DocumentPath=PCB\ESP8622.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -575,7 +592,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document33]
 DocumentPath=PCB\Mech.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -592,7 +609,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IMTAGMOC
 
-[Document33]
+[Document34]
 DocumentPath=PCB\Wuerth.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -609,7 +626,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VUQOBGSK
 
-[Document34]
+[Document35]
 DocumentPath=PCB\SolderJumper.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -626,7 +643,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document36]
 DocumentPath=PCB\TAG_CONNECT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -643,7 +660,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUXALQRK
 
-[Document36]
+[Document37]
+DocumentPath=PCB\TO.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VUQOBGSK
+
+[Document38]
+DocumentPath=PCB\MeanWell.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VPRXKSCC
+
+[Document39]
 DocumentPath=PCB\Testpoint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -660,7 +711,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QMQCROBJ
 
-[Document37]
+[Document40]
 DocumentPath=SCH\Toradex.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -677,7 +728,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VIZFCYCD
 
-[Document38]
+[Document41]
 DocumentPath=PCB\Harting.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -694,7 +745,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VUQOBGSK
 
-[Document39]
+[Document42]
 DocumentPath=PCB\Molex.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -711,7 +762,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YGVOIXMJ
 
-[Document40]
+[Document43]
 DocumentPath=PCB\DIOB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1

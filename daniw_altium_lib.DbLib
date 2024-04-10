@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Daten\Temp\dan
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=114|Description0=158|Library Path0=97|Library Ref0=77|Footprint Path0=118|Footprint Ref0=92|Comment0=114|Manufacturer0=93|Package0=65|Value0=52|Absolute Value0=101|HelpURL0=659|Manufacturer 10=182|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=182|Manufacturer 20=151|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=179|Manufacturer 30=102|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142|JLC Type0=66|Eurocircuits GPN0=111
+BrowserOrder_Visible=Part Number0=114|Description0=176|Library Path0=97|Library Ref0=77|Footprint Path0=118|Footprint Ref0=92|Comment0=114|Manufacturer0=93|Package0=65|Value0=52|Absolute Value0=101|HelpURL0=659|Manufacturer 10=182|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=183|Manufacturer 20=151|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=179|Manufacturer 30=102|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142|JLC Type0=66|Eurocircuits GPN0=111
 [Table2]
 SchemaName=
 TableName=CON$
