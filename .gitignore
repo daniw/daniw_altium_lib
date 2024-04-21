@@ -9,6 +9,7 @@ PCB/Molex.PcbLib
 PCB/SDCard.PcbLib
 PCB/Toradex.PcbLib
 PCB/Harting.PcbLib
+PCB/Schurter.PcbLib
 
 
 # digikey generator
