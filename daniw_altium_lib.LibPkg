@@ -713,6 +713,23 @@ GenerateClassCluster=0
 DocumentUniqueId=VPRXKSCC
 
 [Document40]
+DocumentPath=PCB\R_THT.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FCWKMTOQ
+
+[Document41]
 DocumentPath=PCB\Testpoint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -729,7 +746,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QMQCROBJ
 
-[Document41]
+[Document42]
 DocumentPath=SCH\Toradex.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -746,7 +763,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VIZFCYCD
 
-[Document42]
+[Document43]
 DocumentPath=PCB\Harting.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -763,7 +780,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUBMKVRR
 
-[Document43]
+[Document44]
 DocumentPath=PCB\Molex.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -780,7 +797,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YGVOIXMJ
 
-[Document44]
+[Document45]
 DocumentPath=PCB\DIOB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -797,7 +814,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document46]
 DocumentPath=SCH\OPA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
