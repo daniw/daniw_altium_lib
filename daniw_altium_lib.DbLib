@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Daten\Temp\daniw_altium_lib\daniw_altium_lib.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Daten\Daniel\ele\daniw_altium_lib\daniw_altium_lib.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=114|Description0=176|Library Path0=97|Library Ref0=77|Footprint Path0=118|Footprint Ref0=92|Comment0=114|Manufacturer0=93|Package0=65|Value0=52|Absolute Value0=101|HelpURL0=659|Manufacturer 10=182|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=183|Manufacturer 20=151|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=179|Manufacturer 30=102|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142|JLC Type0=66|Eurocircuits GPN0=111
+BrowserOrder_Visible=Part Number0=114|Description0=176|Library Path0=97|Library Ref0=77|Footprint Path0=118|Footprint Ref0=139|Comment0=114|Manufacturer0=93|Package0=65|Value0=52|Absolute Value0=101|HelpURL0=679|Manufacturer 10=182|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=183|Manufacturer 20=151|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=179|Manufacturer 30=102|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142|JLC Type0=66|Eurocircuits GPN0=111
 [Table2]
 SchemaName=
 TableName=CON$
@@ -49,41 +49,47 @@ UserWhere=0
 UserWhereText=
 [Table5]
 SchemaName=
-TableName=Integrated$
-Enabled=True
+TableName=D$_xlnm#_FilterDatabase
+Enabled=False
 UserWhere=0
 UserWhereText=
 [Table6]
 SchemaName=
-TableName=L$
+TableName=Integrated$
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table7]
 SchemaName=
-TableName=Logic$
+TableName=L$
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table8]
 SchemaName=
-TableName=Misc$
+TableName=Logic$
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table9]
 SchemaName=
-TableName=Module$
+TableName=Misc$
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table10]
 SchemaName=
-TableName=R$
+TableName=Module$
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table11]
+SchemaName=
+TableName=R$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table12]
 SchemaName=
 TableName=Start$
 Enabled=False

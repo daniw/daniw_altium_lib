@@ -508,6 +508,23 @@ GenerateClassCluster=0
 DocumentUniqueId=OHAYGGCH
 
 [Document28]
+DocumentPath=PCB\ELP.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JLJKDYGV
+
+[Document29]
 DocumentPath=PCB\ESP32.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -524,7 +541,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WYOBYDYX
 
-[Document29]
+[Document30]
 DocumentPath=PCB\ESP8622.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -541,7 +558,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FBOVWNFE
 
-[Document30]
+[Document31]
 DocumentPath=PCB\Harting.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -558,7 +575,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUBMKVRR
 
-[Document31]
+[Document32]
 DocumentPath=PCB\Header_254.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -575,7 +592,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WLQQRSQE
 
-[Document32]
+[Document33]
 DocumentPath=PCB\IND_SMT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -592,7 +609,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KEYHICHT
 
-[Document33]
+[Document34]
 DocumentPath=PCB\L_THT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -609,7 +626,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GTKORLAH
 
-[Document34]
+[Document35]
 DocumentPath=PCB\LED.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -626,7 +643,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FQZXHQEW
 
-[Document35]
+[Document36]
 DocumentPath=PCB\Mech.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -643,7 +660,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IMTAGMOC
 
-[Document36]
+[Document37]
 DocumentPath=PCB\MeanWell.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -660,7 +677,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VPRXKSCC
 
-[Document37]
+[Document38]
 DocumentPath=PCB\Molex.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -677,7 +694,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YGVOIXMJ
 
-[Document38]
+[Document39]
 DocumentPath=PCB\Phoenix.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -694,7 +711,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTKFUPSW
 
-[Document39]
+[Document40]
 DocumentPath=PCB\QFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -711,7 +728,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ORRDUKBA
 
-[Document40]
+[Document41]
 DocumentPath=PCB\QFP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -728,7 +745,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WRFSXFOI
 
-[Document41]
+[Document42]
 DocumentPath=PCB\R_POT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -745,7 +762,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WFPNSFHX
 
-[Document42]
+[Document43]
 DocumentPath=PCB\R_THT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -762,7 +779,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FCWKMTOQ
 
-[Document43]
+[Document44]
 DocumentPath=PCB\Relais.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -779,7 +796,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XCYRTBJZ
 
-[Document44]
+[Document45]
 DocumentPath=PCB\RJ.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -796,7 +813,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MJGQRMVJ
 
-[Document45]
+[Document46]
 DocumentPath=PCB\Schurter.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -813,7 +830,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XEKFUZDF
 
-[Document46]
+[Document47]
 DocumentPath=PCB\SDCard.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -830,7 +847,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PPFFRVTZ
 
-[Document47]
+[Document48]
 DocumentPath=PCB\SMT_CHIP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -847,7 +864,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FIULFVUA
 
-[Document48]
+[Document49]
 DocumentPath=PCB\SOD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -864,7 +881,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XERHWEBT
 
-[Document49]
+[Document50]
 DocumentPath=PCB\SolderJumper.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -881,7 +898,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ABPNSUWD
 
-[Document50]
+[Document51]
 DocumentPath=PCB\SON.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -898,7 +915,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JLNTAYXQ
 
-[Document51]
+[Document52]
 DocumentPath=PCB\SOP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -915,7 +932,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JTQYIIGC
 
-[Document52]
+[Document53]
 DocumentPath=PCB\SOT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -932,7 +949,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FEUOBSPD
 
-[Document53]
+[Document54]
 DocumentPath=PCB\Switch.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -949,7 +966,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHPOSLBD
 
-[Document54]
+[Document55]
 DocumentPath=PCB\TAG_CONNECT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -966,7 +983,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUXALQRK
 
-[Document55]
+[Document56]
 DocumentPath=PCB\Testpoint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -983,7 +1000,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QMQCROBJ
 
-[Document56]
+[Document57]
 DocumentPath=PCB\THT_Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1000,7 +1017,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VUQOBGSK
 
-[Document57]
+[Document58]
 DocumentPath=PCB\TO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1017,7 +1034,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPHHASBN
 
-[Document58]
+[Document59]
 DocumentPath=PCB\Toradex.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1034,7 +1051,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SBJRWTTX
 
-[Document59]
+[Document60]
 DocumentPath=PCB\USB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1051,7 +1068,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VOHRUYPS
 
-[Document60]
+[Document61]
 DocumentPath=PCB\Wago.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1068,7 +1085,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UKUBUPWV
 
-[Document61]
+[Document62]
 DocumentPath=PCB\Wuerth.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
