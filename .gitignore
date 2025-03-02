@@ -2,18 +2,11 @@
 History/
 PCB/3D_Models/
 *_loc
-
-
-# Proprietary Libraries
-PCB/Molex.PcbLib
-PCB/SDCard.PcbLib
-PCB/Toradex.PcbLib
-PCB/Harting.PcbLib
-PCB/Schurter.PcbLib
+Project Outputs for altium_lib
 
 
 # digikey generator
-Scripts/output.txt
+Scripts/*.txt
 Scripts/__pycache__
 Scripts/digikey_cache
 Scripts/digikey_password.py
@@ -21,3 +14,8 @@ Scripts/digikey_password.py
 
 # Excel
 ~$daniw_altium_lib.xlsx
+\*.zip
+
+
+#Local Documentation
+*.pdf
